@@ -14,6 +14,28 @@ class Home extends React.Component{
             <div className="col-md-6 marvin-intro">
               <div className="row">
                 <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
+                <h2 className="marvin-headline marvin-yellow">Hello, I'm Victor</h2>
               </div>
                <div className="row text-xs-center">
               </div>

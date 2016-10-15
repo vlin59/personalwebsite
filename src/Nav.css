@@ -1,0 +1,22 @@
+.navbar {
+  background-color: #112236;
+}
+
+.navbar-brand h1{
+  color: #dbe4ed;
+  font-size: 26px;
+}
+
+.navbar-brand:hover h1{
+  color: #ffffff;
+}
+
+.nav-link h2{
+  color: #dbe4ed;
+  font-size: 22px;
+}
+
+.nav-link:hover h2{
+  color: #ffffff;
+}
+

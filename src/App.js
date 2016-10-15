@@ -10,7 +10,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="container-fluid">
+      <div>
         <Nav />
         <div className="container-fluid">
           <div className="row">
