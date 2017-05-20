@@ -2,6 +2,15 @@
   background-color: #112236;
 }
 
+.navbar-toggler {
+  color: #dbe4ed;
+}
+
+.navbar-toggler:hover {
+  color: #ffffff;
+}
+
+
 .navbar-brand h1{
   color: #dbe4ed;
   font-size: 26px;

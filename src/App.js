@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Nav from './Nav.js'
-
+import 'babel-polyfill'
 
 class App extends Component {
   constructor(props){

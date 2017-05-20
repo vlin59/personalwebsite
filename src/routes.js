@@ -4,7 +4,7 @@ import { Route, Link, hashHistory, browserHistory, IndexRoute, Redirect} from 'r
 import App from './App';
 
 import Home from './Home';
-import Projects from './Projects'
+import Projects from './Projects';
 
 export default(
   <Route path='/' component={App}>
